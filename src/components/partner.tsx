@@ -5,6 +5,7 @@ const Partners = () => {
         // { name: 'ONDI', src: '/partners/ondi.png' },
         { name: 'ONDI', src: '/partners/cropped-ONDI-favicon-1.jpg' },
         // { name: 'Ibom Innovation Network', src: '/partners/ibom.png' },
+        { name: 'Hotel.ng', src: '/partners/2100bfde-34f3-48c3-a339-2fa32392cbe1.png' },
         { name: 'Ibom Innovation Network', src: '/partners/ibom-innovation-network-logo.webp' },
         { name: 'AfriLabs', src: '/partners/afrilabs-1.png' },
         { name: 'PIND Foundation', src: '/partners/Fulllogo.png' },
