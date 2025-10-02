@@ -28,11 +28,11 @@ const PageHero: React.FC<PageHeroProps> = ({ title, subtitle, backgroundImageUrl
 
         <div className="relative z-10 container mx-auto px-6 py-16 md:py-20">
           <div className="max-w-4xl">
-            <h1 className="text-3xl md:text-5xl font-bold tracking-tight text-white font-roboto">
+            <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white font-manrope">
               {title}
             </h1>
             {subtitle && (
-              <p className="mt-4 text-base md:text-lg text-white/80 max-w-2xl">
+              <p className="mt-4 text-base md:text-lg text-white/90 max-w-2xl font-bold font-manrope">
                 {subtitle}
               </p>
             )}

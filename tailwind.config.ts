@@ -20,6 +20,7 @@ export default {
 		},
 		extend: {
 			fontFamily: {
+				'manrope': ['Manrope', 'system-ui', 'sans-serif'],
 				'poppins': ['Poppins', 'Arial', 'sans-serif'],
 				'roboto': ['Roboto', 'sans-serif'],
 			},

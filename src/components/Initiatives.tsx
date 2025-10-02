@@ -35,7 +35,7 @@ const Initiatives = () => {
     <section className="py-16 bg-background w-[85%] mx-auto ">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4 font-roboto text-foreground">Our Initiatives</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-foreground">Our Initiatives</h2>
           <div className="w-20 h-1 bg-secondary mx-auto mb-6"></div>
           <p className="text-lg text-foreground/80 max-w-3xl mx-auto">
             Our diverse initiatives foster collaboration, research, and entrepreneurship for youth and professionals.

@@ -47,7 +47,7 @@ const Programs = () => {
     <section className="py-16 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4 font-roboto text-foreground">Our Programs</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-foreground">Our Programs</h2>
           <div className="w-20 h-1 bg-secondary mx-auto mb-6"></div>
           <p className="text-lg text-foreground/80 max-w-3xl mx-auto">
             Future Labs runs accelerator and capacity-building programs to nurture Africa's next generation of tech leaders.
@@ -73,7 +73,7 @@ const Programs = () => {
                     {program.icon}
                   </div>
                   <div className="flex-1">
-                    <h3 className="text-base sm:text-lg font-bold mb-1 sm:mb-2 font-roboto text-foreground break-words">
+                    <h3 className="text-base sm:text-lg font-extrabold mb-1 sm:mb-2 text-foreground break-words">
                       {program.title}
                     </h3>
                     <div className="flex flex-wrap gap-3 sm:gap-4 text-[11px] sm:text-xs font-semibold text-foreground/60 mb-2 sm:mb-3">

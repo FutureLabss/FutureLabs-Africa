@@ -6,7 +6,7 @@ const AboutUs = () => {
     <section id="about" className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4 font-roboto text-foreground">About Future Labs</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-foreground">About Future Labs</h2>
           <div className="w-24 h-1 bg-secondary mx-auto mb-8"></div>
           <p className="text-lg text-foreground/80 max-w-3xl mx-auto">
             We inspire, empower, and incubate high-impact tech ideas and startups shaping the African continent.
@@ -15,7 +15,7 @@ const AboutUs = () => {
         
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
-            <h3 className="text-3xl font-bold mb-6 font-roboto text-foreground">Who We Are</h3>
+            <h3 className="text-3xl font-bold mb-6 text-foreground">Who We Are</h3>
             <p className="text-foreground/80 mb-6">
               Future Labs is a digital innovation ecosystem driving technology and innovation across Africa for sustainable impact. We are dedicated to bridging the digital divide by upskilling underserved youth, incubating high-impact startups, and building a future-ready Africa.
             </p>

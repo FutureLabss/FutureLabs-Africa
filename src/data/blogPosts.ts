@@ -24,7 +24,7 @@ export const blogPosts: BlogPost[] = [
 
       As we continue to expand our reach, we're also working with local leaders and businesses to ensure that our curriculum addresses the specific needs of each community we serve.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+    imageUrl: "/blog-img/tech.jpg",
     category: "Education",
     date: "May 15, 2025",
     author: "Ngozi Okonkwo"
@@ -44,7 +44,7 @@ export const blogPosts: BlogPost[] = [
 
       At FutureLabs, our incubation program is adapting to these changes by helping founders build sustainable business models from day one, rather than pursuing growth at all costs.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+    imageUrl: "/blog-img/rural1.jpg",
     category: "Startups",
     date: "May 8, 2025",
     author: "David Oladele"
@@ -64,7 +64,7 @@ export const blogPosts: BlogPost[] = [
 
       As we look to the future, our goal is not just to achieve gender parity in tech leadership, but to establish Africa as a global leader in inclusive innovation.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7",
+    imageUrl: "/blog-img/women.jpg",
     category: "Diversity",
     date: "April 22, 2025",
     author: "Fatima Mohammed"
@@ -84,7 +84,7 @@ export const blogPosts: BlogPost[] = [
 
       As we prepare to launch five new rural hubs across Nigeria in the coming year, we're focused on creating a replicable model that other organizations can adapt to their own contexts, potentially unlocking millions of talented individuals who have been excluded from the digital economy.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    imageUrl: "/blog-img/rural2.jpg",
     category: "Community",
     date: "April 10, 2025",
     author: "Emmanuel Adewale"

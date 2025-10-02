@@ -14,7 +14,7 @@ const BlogPreview = () => {
     <section id="blog" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Latest From Our Blog</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold mb-4">Latest From Our Blog</h2>
           <div className="w-24 h-1 bg-primary mx-auto mb-8"></div>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Insights, updates, and stories from the FutureLabs ecosystem.
