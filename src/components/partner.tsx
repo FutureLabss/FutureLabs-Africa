@@ -26,7 +26,7 @@ const Partners = () => {
                 <p className="text-center text-white/90 mb-10 px-6">
                     Organizations we have had the pleasure of innovating for impact with
                 </p>
-                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8 px-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 px-4">
                     {logos.map((logo) => (
                         <div
                             key={logo.name}
